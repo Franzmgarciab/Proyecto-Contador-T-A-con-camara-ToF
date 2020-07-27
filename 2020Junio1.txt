@@ -1,0 +1,2 @@
+Inicio,Monday,2020/6/1,10:56:29,nodata
+Status,Monday,2020/6/1,10:56:29,200
